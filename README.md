@@ -4,12 +4,8 @@ Este projeto é uma aplicação web desenvolvida com React e TypeScript que util
 - [Sobre](#sobre)
 - [Funcionalidades](#funcionalidades)
 - [Pré-requisitos](#pré-requisitos)
-- [Instalação](#instalação)
-- [Uso](#uso)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-- [Contato](#contato)
+
 ## Sobre
 A aplicação permite que os usuários pesquisem pelo nome de usuário do GitHub e visualizem informações detalhadas sobre o perfil, como avatar, biografia, repositórios públicos, seguidores e seguindo.
 ## Funcionalidades
